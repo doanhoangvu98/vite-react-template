@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+::before,
+::after {
+  box-sizing: border-box; /* 1 */
+}
+
+/* You can add global styles tzo this file, and also import other style files */
+:root {
+  --bg-error: #cc2727;
+}
