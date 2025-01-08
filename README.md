@@ -24,6 +24,10 @@
 
 `npm run prettier:fix`
 
-## 6. Run project
+## 6. Run test
+
+`npm run test`
+
+## 7. Run project
 
 `npm run dev`

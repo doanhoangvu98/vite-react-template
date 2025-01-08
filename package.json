@@ -24,6 +24,7 @@
     "react-router-dom": "^7.1.1",
     "react-toastify": "^11.0.2",
     "redux-persist": "^6.0.0",
+    "tailwind-merge": "^2.6.0",
     "vite-tsconfig-paths": "^5.1.4"
   },
   "devDependencies": {
